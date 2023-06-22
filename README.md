@@ -12,7 +12,7 @@ To install **vCard**, follow these steps:
 ## Windows:
 
 ```bash
-git clone https://github.com/Prathm18/Personal_Portfolio.git
+git clone https://github.com/Prathm18/kasarprathmeshportfolio.github.io
 ```
 
 ## Contact
